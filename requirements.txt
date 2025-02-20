@@ -1,5 +1,6 @@
 huggingface_hub
-ultralytics
+# ultralytics
+ultralytics@git+https://github.com/wisesight/ultralytics.git@v8.3.49-aws-neuron
 timm==0.8.13.dev0
 yt_dlp
 lapx>=0.5.2
